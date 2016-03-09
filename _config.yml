@@ -1,0 +1,28 @@
+name: 'Pathways & Intersections'
+favicon: null
+layout_spectrum: 0.3857137393206358
+typography_spectrum: 0.24160712701268494
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7256039422936738
+  lightness: 0.9780207092408091
+  saturation: 0.4171296707354486
+  rhythmicContrast: 0.48035819199867547
+purpose: []
